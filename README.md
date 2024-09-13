@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soundar Balaji J</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangalore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar3078&label=Profile%20views&color=0e75b6&style=flat" alt="soundar3078" /> </p>
 
