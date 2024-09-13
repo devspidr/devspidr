@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**
 
--  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario
+-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario in Bug-Bounty Programs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
