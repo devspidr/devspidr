@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Android Development, DevOps**
+- 🌱 I’m currently learning **Android Development(React Native), Web Application Security, Cyber Defence**
 
 - 📫 How to reach me **soundarbalaji3078@gmail.com**
 
 - ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**
+
+-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
