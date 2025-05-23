@@ -77,19 +77,7 @@
 
 ---
 
-<!-- Designed with ❤️ by Soundar using GPRM: https://gprm.itsvg.in -->
 
-✅ Next Steps:
-
-    Add this markdown into your GitHub repository's README.md file.
-
-    If you want to add pinned projects or contribution graphs, I can help with that too.
-
-    Let me know if you'd like a portfolio-style README with project showcases or images.
-
-Would you like me to generate a preview screenshot of how this looks?
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soundar3078&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
