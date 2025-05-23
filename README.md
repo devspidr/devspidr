@@ -1,13 +1,38 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **Machine Learning**<br><br>- 🌱 I’m currently learning **Android Development(React Native), Web Application Security, Cyber Defence**<br><br>- 📫 How to reach me **soundarbalaji3078@gmail.com**<br><br>- ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**<br><br>-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario in Bug-Bounty Programs**
+<!-- Typing SVG animation -->
+<p align="center">
+  <a href="https://github.com/soundar3078">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full-Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor;Space+Science+Lover" alt="Typing SVG" />
+  </a>
+</p>
 
+<h1 align="center">Hi 👋, I'm Soundar Balaji J.</h1>
+<h3 align="center">AI Enthusiast | Researcher | Full-Stack Developer | Open Source Contributor</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/soundar__msd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soundar-balaji-j-133b691b9/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/25733536/soundar-balaji-j) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/soundarmsd7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soundarbalaji3078@gmail.com) 
+---
 
-# 💻 Tech Stack:
+## 💫 About Me:
 
-## 🧠 AI / Machine Learning  
+- 🔭 I’m currently working on **Machine Learning**
+- 🌱 I’m currently learning **Android Development (React Native), Web Application Security, Cyber Defence**
+- 📫 Reach me at **soundarbalaji3078@gmail.com**
+- ⚡ Fun fact: **I am a passionate space enthusiast with a deep fascination for space science.**
+- 🏅 Achievements: **Secured OpenMage, Imgur, LifeOmic, Clario in Bug-Bounty Programs**
+
+---
+
+## 🌐 Connect With Me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soundar__msd/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundar-balaji-j-133b691b9/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25733536/soundar-balaji-j)  
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/soundarmsd7)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soundarbalaji3078@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+
+### 🧠 AI / Machine Learning  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
@@ -18,7 +43,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  
 
-## 💻 Development  
+### 💻 Development  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
@@ -26,12 +51,12 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
-## 🗄️ Databases  
+### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-## 🛠️ DevOps & Cloud  
+### ☁️ DevOps & Cloud  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -39,18 +64,23 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
-## 📊 Data Visualization  
+### 📊 Data Visualization  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soundar3078&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soundar3078&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soundar3078&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📈 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soundar3078&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=soundar3078&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soundar3078&theme=dark&hide_border=false&layout=compact)
 
 ---
+
+## 👁️‍🗨️ Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=soundar3078&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Designed with ❤️ by Soundar using GPRM: https://gprm.itsvg.in -->
