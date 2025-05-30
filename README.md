@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Machine Learning**<br><br>- 🌱 I’m currently learning **Machine Learning, Devops, Web Application Security,Data Science** <br><br>- 📫 How to reach me **soundarbalaji3078@gmail.com**<br><br>- ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**<br><br>-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario in Bug-Bounty Programs**
+- 🔭 I’m currently working on **Machine Learning**<br><br>- 🌱 I’m currently learning **Machine Learning, Devops, Web Application Security, Data Science, RAGs, Building LLM** <br><br>- 📫 How to reach me **soundarbalaji3078@gmail.com**<br><br>- ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**<br><br>-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario in Bug-Bounty Programs**
 
 ---
 
