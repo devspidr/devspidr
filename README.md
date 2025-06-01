@@ -9,7 +9,7 @@
   - **Retrieval-Augmented Generation (RAGs)**
   - **Building Large Language Models (LLMs)**
 - 👨‍💻 **Open Source Contributor** – I actively contribute to various projects in AI, DevOps, and security.
-- 👨‍🎓 **Pursuing Computer Science Engineering** – with a focus on leveraging technology to build impactful solutions.
+- 👨‍🎓 **Pursuing Computer Science Engineering** – with a focus on leveraging technology to build impactful solutions and achieving good academic performance.
 - 💻 **Core CS Interests:**
   - **Data Structures & Algorithms**
   - **Operating Systems & Computer Architecture**
@@ -17,8 +17,17 @@
   - **Software Engineering Principles & Design Patterns**
   - **System Design & Scalability**
   - **Networking & Security Fundamentals**
-- 🪐 **Space Enthusiast** – I have a deep fascination for space science and astronomy.
-- 💡 **Fun Fact:** I’m driven by curiosity and love tinkering with new tech!
+- 🪐 **Space Enthusiast** – I have a deep fascination for space science and astronomy, and I enjoy exploring the mysteries of the universe, following the latest NASA missions, and even simulating space missions in coding projects! 🚀✨
+- 💡 **Fun Facts:**
+  - 🏏 I love watching cricket and following exciting matches.
+  - 🎮 I enjoy playing mobile games in my free time to unwind.
+  - 🎬 I’m a fan of movies and TV series, always on the lookout for the next great show or film.
+  - 🏋️‍♂️ I practice calisthenics as a way to stay active and strong.
+  - 📚 I’m dedicated to good academics and consistently working to expand my knowledge.
+  - 💻 I love tinkering with new tech and building mini-projects for fun.
+  - 🌌 I’m fascinated by how AI can be combined with space exploration to create smarter, autonomous systems.
+  - 🌃 I’m a night owl who often stays up late solving coding challenges or stargazing on clear nights.
+  - 🎨 I enjoy blending art and tech, experimenting with visualizations that combine data science and creativity!
 - 🏅 **Bug-Bounty Achievements:**
   - Secured vulnerabilities in platforms like **Openmage, Imgur, Lifeomic, Clario**, and more!
 - 🌟 **Current Tech Playground:** Exploring how **AI/ML**, **data engineering**, and **cloud-native applications** can be combined to build secure, efficient systems.
