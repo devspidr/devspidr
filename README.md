@@ -88,12 +88,8 @@ I’m deeply fascinated by space science and astronomy. I love exploring the uni
 
 ---
 
-## 👁️‍🗨️ Visitor Count:
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=soundar3078&icon=0&color=0" />
-</p>
 
----
+
 
 
 
