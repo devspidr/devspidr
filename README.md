@@ -1,5 +1,27 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Machine Learning**<br><br>- 🌱 I’m currently learning **Machine Learning, Devops, Web Application Security, Data Science, RAGs, Building LLM** <br><br>- 📫 How to reach me **soundarbalaji3078@gmail.com**<br><br>- ⚡ Fun fact **I am a passionate space enthusiast with a deep fascination for space science.**<br><br>-  🏅 Achievements **Secured Openmage, Imgur, Lifeomic, Clario in Bug-Bounty Programs**
+
+- 🔭 I’m currently working on **Machine Learning** and **AI Applications**.
+- 🌱 Currently diving into:
+  - **Machine Learning & Deep Learning**
+  - **DevOps and Cloud (Docker, Kubernetes, AWS, Azure)**
+  - **Web Application Security & Bug Bounties**
+  - **Data Science & Data Engineering**
+  - **Retrieval-Augmented Generation (RAGs)**
+  - **Building Large Language Models (LLMs)**
+- 👨‍💻 **Open Source Contributor** – I actively contribute to various projects in AI, DevOps, and security.
+- 👨‍🎓 **Pursuing Computer Science Engineering** – with a focus on leveraging technology to build impactful solutions.
+- 💻 **Core CS Interests:**
+  - **Data Structures & Algorithms**
+  - **Operating Systems & Computer Architecture**
+  - **Database Systems & Query Optimization**
+  - **Software Engineering Principles & Design Patterns**
+  - **System Design & Scalability**
+  - **Networking & Security Fundamentals**
+- 🪐 **Space Enthusiast** – I have a deep fascination for space science and astronomy.
+- 💡 **Fun Fact:** I’m driven by curiosity and love tinkering with new tech!
+- 🏅 **Bug-Bounty Achievements:**
+  - Secured vulnerabilities in platforms like **Openmage, Imgur, Lifeomic, Clario**, and more!
+- 🌟 **Current Tech Playground:** Exploring how **AI/ML**, **data engineering**, and **cloud-native applications** can be combined to build secure, efficient systems.
 
 ---
 
