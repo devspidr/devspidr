@@ -26,8 +26,7 @@
 - Data Structures & Algorithms  
 - Operating Systems & Computer Architecture  
 - Database Systems & Query Optimization  
-- Software Engineering Principles & Design Patterns  
-- System Design & Scalability  
+- Software Engineering Principles & Design Patterns
 - Networking & Security Fundamentals  
 
 ---
@@ -40,15 +39,14 @@ I’m deeply fascinated by space science and astronomy. I love exploring the uni
 
 ### 💡 Fun Facts & Hobbies
 
-- 🏏 Cricket fan who loves following exciting matches  
+- 🏏 Cricket fan who loves following exciting global matches  
 - 🎮 Mobile gaming enthusiast — great way to unwind  
 - 🎬 Avid watcher of movies & TV series — always hunting for the next favorite  
 - 🏋️‍♂️ Calisthenics practitioner, keeping fit and strong  
 - 📚 Committed to good academics and continuous learning  
 - 💻 Passionate about tinkering with tech and building mini-projects  
 - 🌌 Fascinated by the synergy of AI and space exploration for autonomous systems  
-- 🌃 Night owl, often stargazing or solving coding challenges late into the night  
-- 🎨 Enjoy blending art and technology through data visualization projects  
+- 🌃 Night owl, often stargazing or solving coding challenges late into the night
 
 ---
 
