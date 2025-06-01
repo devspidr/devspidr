@@ -1,36 +1,54 @@
-# 💫 About Me:
+# 💫 About Me
 
-- 🔭 I’m currently working on **Machine Learning** and **AI Applications**.
-- 🌱 Currently diving into:
-  - **Machine Learning & Deep Learning**
-  - **DevOps and Cloud (Docker, Kubernetes, AWS, Azure)**
-  - **Web Application Security & Bug Bounties**
-  - **Data Science & Data Engineering**
-  - **Retrieval-Augmented Generation (RAGs)**
-  - **Building Large Language Models (LLMs)**
-- 👨‍💻 **Open Source Contributor** – I actively contribute to various projects in AI, DevOps, and security.
-- 👨‍🎓 **Pursuing Computer Science Engineering** – with a focus on leveraging technology to build impactful solutions and achieving good academic performance.
-- 💻 **Core CS Interests:**
-  - **Data Structures & Algorithms**
-  - **Operating Systems & Computer Architecture**
-  - **Database Systems & Query Optimization**
-  - **Software Engineering Principles & Design Patterns**
-  - **System Design & Scalability**
-  - **Networking & Security Fundamentals**
-- 🪐 **Space Enthusiast** – I have a deep fascination for space science and astronomy, and I enjoy exploring the mysteries of the universe, following the latest NASA missions, and even simulating space missions in coding projects! 🚀✨
-- 💡 **Fun Facts:**
-  - 🏏 I love watching cricket and following exciting matches.
-  - 🎮 I enjoy playing mobile games in my free time to unwind.
-  - 🎬 I’m a fan of movies and TV series, always on the lookout for the next great show or film.
-  - 🏋️‍♂️ I practice calisthenics as a way to stay active and strong.
-  - 📚 I’m dedicated to good academics and consistently working to expand my knowledge.
-  - 💻 I love tinkering with new tech and building mini-projects for fun.
-  - 🌌 I’m fascinated by how AI can be combined with space exploration to create smarter, autonomous systems.
-  - 🌃 I’m a night owl who often stays up late solving coding challenges or stargazing on clear nights.
-  - 🎨 I enjoy blending art and tech, experimenting with visualizations that combine data science and creativity!
-- 🏅 **Bug-Bounty Achievements:**
-  - Secured vulnerabilities in platforms like **Openmage, Imgur, Lifeomic, Clario**, and more!
-- 🌟 **Current Tech Playground:** Exploring how **AI/ML**, **data engineering**, and **cloud-native applications** can be combined to build secure, efficient systems.
+---
+
+- 🔭 **I’m currently working on:**  
+  **Machine Learning** & **AI Applications**
+
+- 🌱 **Currently diving into:**  
+  - Machine Learning & Deep Learning  
+  - DevOps & Cloud (Docker, Kubernetes, AWS, Azure)  
+  - Web Application Security & Bug Bounties  
+  - Data Science & Data Engineering  
+  - Retrieval-Augmented Generation (RAGs)  
+  - Building Large Language Models (LLMs)  
+
+- 👨‍💻 **Open Source Contributor:**  
+  Actively contributing to AI, DevOps, and security projects
+
+- 👨‍🎓 **Pursuing Computer Science Engineering:**  
+  Focused on building impactful solutions and maintaining strong academic performance
+
+---
+
+### 💻 Core CS Interests
+
+- Data Structures & Algorithms  
+- Operating Systems & Computer Architecture  
+- Database Systems & Query Optimization  
+- Software Engineering Principles & Design Patterns  
+- System Design & Scalability  
+- Networking & Security Fundamentals  
+
+---
+
+### 🪐 Space Enthusiast
+
+I’m deeply fascinated by space science and astronomy. I love exploring the universe’s mysteries, following NASA missions, and simulating space missions with code! 🚀✨
+
+---
+
+### 💡 Fun Facts & Hobbies
+
+- 🏏 Cricket fan who loves following exciting matches  
+- 🎮 Mobile gaming enthusiast — great way to unwind  
+- 🎬 Avid watcher of movies & TV series — always hunting for the next favorite  
+- 🏋️‍♂️ Calisthenics practitioner, keeping fit and strong  
+- 📚 Committed to good academics and continuous learning  
+- 💻 Passionate about tinkering with tech and building mini-projects  
+- 🌌 Fascinated by the synergy of AI and space exploration for autonomous systems  
+- 🌃 Night owl, often stargazing or solving coding challenges late into the night  
+- 🎨 Enjoy blending art and technology through data visualization projects  
 
 ---
 
