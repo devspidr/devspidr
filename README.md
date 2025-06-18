@@ -78,12 +78,12 @@ I’m deeply fascinated by space science and astronomy. I love exploring the uni
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soundar3078&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" />
-  <img src="https://streak-stats.demolab.com?user=soundar3078&theme=dark&hide_border=false" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devspidr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" />
+  <img src="https://streak-stats.demolab.com?user=devspidr&theme=dark&hide_border=false" height="200px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundar3078&theme=dark&hide_border=false&layout=compact" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devspidr&theme=dark&hide_border=false&layout=compact" height="200px" />
 </p>
 
 ---
