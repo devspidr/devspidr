@@ -7,14 +7,14 @@
 
 - 🌱 **Currently diving into:**  
   - Machine Learning & Deep Learning  
-  - DevOps & Cloud (Docker, Kubernetes, AWS, Azure)  
+  - DevOps
   - Web Application Security & Bug Bounties  
   - Data Science & Data Engineering  
   - Retrieval-Augmented Generation (RAGs)  
   - Building Large Language Models (LLMs)  
 
 - 👨‍💻 **Open Source Contributor:**  
-  Actively contributing to AI, DevOps, and security projects
+  Actively contributing to AI and security projects
 
 - 👨‍🎓 **Pursuing Computer Science Engineering:**  
   Focused on building impactful solutions and maintaining strong academic performance
@@ -42,7 +42,7 @@ I’m deeply fascinated by space science and astronomy. I love exploring the uni
 - 🏏 Cricket fan who loves following exciting global matches  
 - 🎮 Mobile gaming enthusiast — great way to unwind  
 - 🎬 Avid watcher of movies & TV series — always hunting for the next favorite  
-- 🏋️‍♂️ Calisthenics practitioner, keeping fit and strong  
+- 🏋️‍♂️ keeping fit and strong mentally
 - 📚 Committed to good academics and continuous learning  
 - 💻 Passionate about tinkering with tech and building mini-projects  
 - 🌌 Fascinated by the synergy of AI and space exploration for autonomous systems  
