@@ -3,7 +3,7 @@
 ---
 
 - 🔭 **I’m currently working on:**  
-  **Machine Learning** & **AI Applications**
+  **Machine Learning** & **AI Applications**   
 
 - 🌱 **Currently diving into:**  
   - Machine Learning & Deep Learning  
