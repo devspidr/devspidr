@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\SOUNDAR\Desktop\sb1.jpg"" alt="My Profile Banner" width="100%" />
+  <img src="sb1.jpg" alt="My Profile Banner" width="100%" />
 </p>
 
 
