@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="sb1.jpg" alt="My Profile Banner" width="100%" />
+  <img src="sb1.jpg" alt="My Profile Banner" width="800" height="250" />
 </p>
+
 
 
 # 💫 About Me
