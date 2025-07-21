@@ -3,15 +3,18 @@
 ---
 
 - 🔭 **I’m currently working on:**  
-  **Machine Learning** & **AI Applications**   
+  **Machine Learning** & **AI Applications**  
 
 - 🌱 **Currently diving into:**  
   - Machine Learning & Deep Learning  
-  - DevOps
-  - Web Application Security & Bug Bounties  
-  - Data Science & Data Engineering  
+    - Neural Networks  
+      - Convolutional Neural Networks (CNNs) & CNN Architectures  
+      - Recurrent Neural Networks (RNNs) & Sequence Modeling  
+      - Transformers & its modern updates  
   - Retrieval-Augmented Generation (RAGs)  
-  - Building Large Language Models (LLMs)  
+  - Building Large Language Models (LLMs)
+  - Web Application Security & Bug Bounties  
+
 
 - 👨‍💻 **Open Source Contributor:**  
   Actively contributing to AI and security projects
